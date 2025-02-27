@@ -1,4 +1,4 @@
-[![Check out pouriya73's profile on stardev.io](https://stardev.io/developers/pouriya73/badge/languages/locality.svg)](https://stardev.io/developers/pouriya73)
+[![Check out pouriya73's profile on stardev.io](https://github.com/user-attachments/assets/ce89cfc5-e800-44cd-9ba2-d49f04433b58)](https://stardev.io/developers/pouriya73)
 
 [![Open Link](https://github.com/user-attachments/assets/75cb6f19-ce36-4ac4-9641-09395f54e54b)](https://stardev.io/developers/pouriya73)
 
