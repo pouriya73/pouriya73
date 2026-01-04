@@ -2,7 +2,7 @@
   <tr>
     <td>
       <a href="https://stardev.io/developers/pouriya73">
-        <img src="https://github.com/user-attachments/assets/088a5846-8ae9-4576-8c6e-9f98be717757" alt="Check out pouriya73's profile on stardev.io">
+        <img src="https://github.com/user-attachments/assets/c382a0bd-e0af-4d0c-92f5-1770b8b27cc3" alt="Check out pouriya73's profile on stardev.io">
       </a>
     </td>
     <td>
