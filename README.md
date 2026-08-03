@@ -2,7 +2,7 @@
   <tr>
     <td>
       <a href="https://stardev.io/developers/pouriya73">
-        <img src="https://github.com/user-attachments/assets/8524289b-5d19-436a-9219-52e7e902cbc8" alt="Check out pouriya73's profile on stardev.io">
+        <img src="https://github.com/user-attachments/assets/77102b3f-7db5-4e40-af79-12127f0576ab" alt="Check out pouriya73's profile on stardev.io">
       </a>
     </td>
     <td>
@@ -17,5 +17,3 @@
 [![Open Link](https://github.com/user-attachments/assets/d828a4de-d3d7-4524-bdae-c807164bf68b)](https://pkg.go.dev/github.com/pouriya73/http-proxy-server---golang)
 
 [![Open Link](https://github.com/user-attachments/assets/ee640d81-582f-469f-904d-5be09499faec)](https://bugcrowd.com/Pianist_dev)
-
-
